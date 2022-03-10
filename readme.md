@@ -10,6 +10,8 @@ cd test-hemblem
 npm install
 
 npm run build
+
+npm i -g .
 ```
 
 ## DLFast function
