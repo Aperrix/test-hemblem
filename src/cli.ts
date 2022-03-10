@@ -7,7 +7,7 @@ const argv = yargs.options({
 		type: 'string',
 		default: '',
 		alias: 'fl',
-		describe: 'The URL to the file you want to download',
+		describe: 'The URL of the file you want to download',
 		demandOption: true
 	},
 	filePath: {
